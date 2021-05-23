@@ -6,9 +6,9 @@ I'm Bennett, a product designer and design technologist.
 * [NOVID](https://novid.org/)
 
 **Links**
-* 🎨  [Portfolio](https://bennetthuffman.com/)
-* ✍️  [Medium](https://medium.com/@bennett.huffman)
-* ✌️  [LinkedIn(https://www.linkedin.com/in/bennetthuffman/)
+* 🎨 [Portfolio](https://bennetthuffman.com/)
+* ✍️ [Medium](https://medium.com/@bennett.huffman)
+* ✌️ [LinkedIn](https://www.linkedin.com/in/bennetthuffman/)
 
 **Previously...**
 * [@gener8tor](https://www.gener8tor.com/)
