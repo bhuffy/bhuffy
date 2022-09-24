@@ -5,4 +5,4 @@ I'm a product designer and UI developer currently building interfaces at the [NA
 * ✍️ [Medium](https://medium.com/@bennett.huffman)
 * ✌️ [LinkedIn](https://www.linkedin.com/in/bennetthuffman/)
 
-Feel free to email me to get in touch.
+Message me via Twitter or links on my website to get in touch.
